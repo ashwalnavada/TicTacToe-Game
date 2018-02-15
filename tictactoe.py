@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[17]:
-
-
 from IPython.display import clear_output
 
 def myboard(board):
